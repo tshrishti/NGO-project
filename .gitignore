@@ -1,0 +1,10 @@
+node_modules
+server/node_modules
+dist
+.DS_Store
+*.local
+
+# SQLite database files
+server/*.db
+server/*.db-wal
+server/*.db-shm
